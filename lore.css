@@ -1,0 +1,27 @@
+h1, h2 {
+  text-align: center;
+  font-family: "Permanent Marker", cursive;
+  font-size: 950%;
+  color: white;
+}  
+
+body {
+  background-image: url("moon.jpg");
+  background-size: cover;
+  background-position: center;
+} 
+
+.bar a  {
+  font-size: 250%;
+  font-family: "Lilita One", cursive;
+  text-align: center;
+  margin-left: 10%;
+  color: #0084ff;
+}  
+
+.bar {
+  background-color: #7cf8be;
+  margin-top: 0%;
+  text-shadow: #43844f;
+  padding-left: 50px;
+} 

@@ -1,0 +1,42 @@
+h1 {
+  text-align: center;
+  font-family: "Permanent Marker", cursive;
+  font-size: 600%;
+  color: black;
+}
+
+p {
+  text-align: center;
+  font-family: "Exo 2", cursive;
+  font-size: 250%;
+}
+
+.project {
+  text-align: center;
+  width: 550px;
+  height: 550px;
+  background-color: #0037db;
+  border: 3px #00fffb solid;
+  display: inline-block;
+  margin: 7.5px
+  
+}
+
+.project img {
+  width: 100%;
+}
+
+.bar a  {
+  font-size: 250%;
+  font-family: "Lilita One", cursive;
+  text-align: center;
+  margin-left: 10%;
+  color: #0084ff;
+}
+
+.bar {
+  background-color: #7cf8be;
+  margin-top: 0%;
+  text-shadow: #43844f;
+  padding-left: 50px;
+}
